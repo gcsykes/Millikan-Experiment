@@ -1,4 +1,4 @@
-#Assignment #4: The Millikan Experiment: Gareth Sykes
+#Assignment: The Millikan Experiment: Gareth Sykes
 
 import matplotlib.pyplot as plt
 import numpy as np
