@@ -1,13 +1,10 @@
 #Assignment: The Millikan Experiment: Gareth Sykes
 
 try:
+    import numpy as np
     import matplotlib.pyplot as plt
 except ImportError:
-    print("error importing matplotlib(required module), please install matplotlib through pip to run this code")
-try:
-    import numpy as np
-except ImportError:
-    print("Error importing Numpy(required module), please install numpy through pip to run this code")
+    print("Error importing Numpy/matplotlib(required module), please install numpy/matplotlib through pip to run this code")
 
 
 #a)
